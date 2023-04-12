@@ -2,6 +2,7 @@
 
 ## Model 
 
+- Anomaly Transformer: [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/pdf?id=LzQQ89U1qm_) (ICLR'22)
 - USAD: [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) (KDD'20)
 - S-RNN: [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) (IJCAI'19)
 - LSTM-VAE: [A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-Based Variational Autoencoder](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8279425) (RA-L'18)
