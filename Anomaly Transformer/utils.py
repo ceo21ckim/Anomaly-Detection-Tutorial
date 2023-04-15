@@ -1,6 +1,6 @@
 import pandas as pd 
 import numpy as np 
-from torch.utils.data import DataLoader, Dataset 
+from torch.utils.data import DataLoader 
 from sklearn.preprocessing import StandardScaler
 
 from tqdm import tqdm 
@@ -115,6 +115,14 @@ def evaluate(args, model, valid_loader, criterion):
         max_loss = reconstruction_loss - args.lambda_ * prior_loss
         min_loss = reconstruction_loss + args.lambda_ * series_loss 
         
+        iterator.set_postfix({
+            'max_loss':max_loss.item(), 
+            'min_loss':min_loss.item(), 
+            'rec_loss':reconstruction_loss.item()
+        }
+        )
+        
+        
     max_losses.append(max_loss.item())
     min_losses.append(min_loss.item())
     
@@ -141,9 +149,10 @@ def train(args, model, train_loader, valid_loader, criterion:list, optimizer):
         max_best_loss = float('-inf')
         
         model.train()
-        iterator = tqdm(train_loader, desc='training...')
+        iterator = tqdm(train_loader, desc=f'Epoch: [{epoch}/{args.num_epochs}]')
         
         for batch in iterator:
+            train_losses = 0.0
             x, label = tuple(b.to(args.device) for b in batch)
             
             optimizer.zero_grad()
