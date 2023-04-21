@@ -12,3 +12,9 @@
 - [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf) (NeurIPS'17)
 - [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) (ICML'16)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) (ICLR'14)
+
+
+
+### Survey
+
+- [A Survey on Unsupervised Visual Industrial Anomaly Detection Algorithms](https://arxiv.org/pdf/2204.11161.pdf) (2022.08)
