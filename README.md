@@ -1,3 +1,6 @@
+
+- modified: 2023-04-24
+
 # Anomaly-Detection-Tutorial
 
 - [MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities](https://arxiv.org/pdf/2205.00908.pdf) (EAAI'23)
