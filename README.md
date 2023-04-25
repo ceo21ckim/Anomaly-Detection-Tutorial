@@ -58,6 +58,9 @@
 - [A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems](https://dl.acm.org/doi/pdf/10.1145/3485447.3511984)
 
 
+
+# Domain
+
 ## Image
 - [MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities](https://arxiv.org/pdf/2205.00908.pdf) (EAAI'23)
 - [Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.pdf) (WACV'22)
