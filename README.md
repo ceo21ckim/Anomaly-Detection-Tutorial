@@ -65,6 +65,8 @@
 - [MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities](https://arxiv.org/pdf/2205.00908.pdf) (EAAI'23)
 - [Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.pdf) (WACV'22)
 - [Anomaly Detection via Reverse Distillation from One-Class Embedding](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.pdf) (CVPR'22)
+- [Multiresolution knowledge distillation for anomaly detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.pdf) (CVPR'21)
+- [DRAEM-A discriminatively trained reconstruction embedding for surface anomaly detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.pdf) (ICCV'21)
 - [Uninformed Students: Student–Teacher Anomaly Detection with Discriminative Latent Embeddings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf) (CVPR'20)
 - [Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection](https://arxiv.org/pdf/2005.14140.pdf) (ICPR'20)
 - [Sub-Image Anomaly Detection with Deep Pyramid Correspondences](https://arxiv.org/pdf/2005.02357.pdf) (arXiv'20)
@@ -76,8 +78,6 @@
 ## Time Series
 
 - [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/pdf?id=LzQQ89U1qm_) (ICLR'22)
-- [Multiresolution knowledge distillation for anomaly detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.pdf) (CVPR'21)
-- [DRAEM-A discriminatively trained reconstruction embedding for surface anomaly detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.pdf) (ICCV'21)
 - [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) (KDD'20)
 - [Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/ACCV2020/papers/Yi_Patch_SVDD_Patch-level_SVDD_for_Anomaly_Detection_and_Segmentation_ACCV_2020_paper.pdf) (ACCV'20)
 - [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) (IJCAI'19)
