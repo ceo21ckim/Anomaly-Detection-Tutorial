@@ -33,7 +33,7 @@
 
 ### NIPS 2022
 
-- [A Unified Model for Multi-class Anomaly Detection](A Unified Model for Multi-class Anomaly Detection)
+- [A Unified Model for Multi-class Anomaly Detection](https://arxiv.org/pdf/2206.03687.pdf)
 - [Few-Shot Fast-Adaptive Anomaly Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/1fe6f635fe265292aba3987b5123ae3d-Paper-Conference.pdf)
 - [Perturbation Learning Based Anomaly Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/5c261ccdc44fbd32fbb344fa578a1844-Paper-Conference.pdf)
 - [SoftPatch: Unsupervised Anomaly Detection with Noisy Data](https://proceedings.neurips.cc/paper_files/paper/2022/file/637a456d89289769ac1ab29617ef7213-Paper-Conference.pdf)
