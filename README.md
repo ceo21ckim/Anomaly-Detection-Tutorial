@@ -3,6 +3,15 @@
 
 # Anomaly-Detection
 
+### Packages
+
+- PyOD (Python Outlier Detection) : [URL](https://github.com/yzhao062/pyod) | [Document](https://pyod.readthedocs.io/en/latest/pyod.html)
+- TDOS (Time-series Outlier Detection Systems) : [URL](https://github.com/datamllab/tods) | [Document](https://tods-doc.github.io/)
+- PyGOD (Python Graph Outlier Detection) : [URL](https://github.com/pygod-team/pygod) | [Document](https://docs.pygod.org/en/latest/)
+- alibi-detect : [URL](https://github.com/SeldonIO/alibi-detect) | [Document](https://docs.seldon.io/projects/alibi-detect/en/stable/)
+- PyNomaly: [URL](https://github.com/vc1492a/PyNomaly)
+
+
 ## Conference 2023
 
 ### ICLR 2023
