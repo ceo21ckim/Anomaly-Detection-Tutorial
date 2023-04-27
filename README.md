@@ -11,6 +11,19 @@
 - alibi-detect : [URL](https://github.com/SeldonIO/alibi-detect) | [Document](https://docs.seldon.io/projects/alibi-detect/en/stable/)
 - PyNomaly: [URL](https://github.com/vc1492a/PyNomaly)
 
+### Tutorial
+
+#### Machine Learning
+
+- [Isolated Forest](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Isolated%20Forest/Isolation%20Forest.ipynb)
+- [One Class SVM](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/One%20Class%20SVM/One-Class-SVM.ipynb)
+
+
+#### Deep Learning
+
+- [Variational AutoEncoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Variational%20AutoEncoder)
+- [LSTM-AE](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/LSTM-AE)
+- [Anomaly Transformer](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Anomaly%20Transformer)
 
 ## Conference 2023
 
