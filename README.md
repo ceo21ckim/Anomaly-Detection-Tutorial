@@ -17,6 +17,7 @@
 
 - [Isolated Forest](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Isolated%20Forest/Isolation%20Forest.ipynb)
 - [One Class SVM](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/One%20Class%20SVM/One-Class-SVM.ipynb)
+- [Local Outlier Factor](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Local%20Outlier%20Factor/Local%20Outlier%20Factor.ipynb)
 
 
 #### Deep Learning
