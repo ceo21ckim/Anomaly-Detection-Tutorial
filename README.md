@@ -95,9 +95,11 @@
 - [Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/ACCV2020/papers/Yi_Patch_SVDD_Patch-level_SVDD_for_Anomaly_Detection_and_Segmentation_ACCV_2020_paper.pdf) (ACCV'20)
 - [Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection](https://arxiv.org/pdf/2005.14140.pdf) (ICPR'20)
 - [Sub-Image Anomaly Detection with Deep Pyramid Correspondences](https://arxiv.org/pdf/2005.02357.pdf) (arXiv'20)
-- [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) (ICLR'14)
+- [Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.pdf) (ICCV'19)
+- [Adversarially learned one-class classifier for novelty detection](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sabokrou_Adversarially_Learned_One-Class_CVPR_2018_paper.pdf) (CVPR'18)
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/pdf/1703.05921.pdf) (IPMI'17)
 - [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) (ICML'18)
+- [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) (ICLR'14)
 
 
 ## Time Series
