@@ -35,6 +35,10 @@
 - [A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet](https://openreview.net/pdf?id=Iuubb9W6Jtk)
 - [Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection](https://openreview.net/pdf?id=mMNimwRb7Gr)
 
+### ECCV 2023
+
+- [Anomaly Detection Requires Better Representations](https://arxiv.org/pdf/2210.10773.pdf)
+
 ## Conference 2022
 
 ### CVPR 2022
