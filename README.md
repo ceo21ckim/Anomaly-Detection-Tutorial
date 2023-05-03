@@ -105,6 +105,9 @@
 ## Time Series
 
 - [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/pdf?id=LzQQ89U1qm_) (ICLR'22)
+- [Inpainting Transformer for Anomaly Detection](https://arxiv.org/pdf/2104.13897.pdf) (ICIAP'22)
+- [AnoViT: Unsupervised anomaly detection and localization with vision transformer-based encoder-decoder](https://arxiv.org/pdf/2203.10808.pdf) (IEEE Acess'22)
+- [VT-ADL: A vision transformer network for image anomaly detection and localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9576231) (ISIE'21)
 - [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) (KDD'20)
 - [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) (IJCAI'19)
 - [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/pdf/10.1145/3292500.3330680) (KDD'19)
