@@ -8,11 +8,10 @@
 2. [Tutorial](#Tutorial)
 3. [Conference 2023](#Conference-2023)
 4. [Conference 2022](#Conference-2022)
-5. [Domain](#Domain)
-  - [Images](#Image)
-  - [Time Series](#Time-Series)
-  - [Video](#Video)
-  - [Survey](#Survey)
+5. [Images](#Image)
+6. [Time Series](#Time-Series)
+7. [Video](#Video)
+8. [Survey](#Survey)
 
 
 ### Packages
