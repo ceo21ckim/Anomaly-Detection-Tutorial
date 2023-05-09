@@ -19,6 +19,7 @@
 - PyGOD (Python Graph Outlier Detection) : [URL](https://github.com/pygod-team/pygod) | [Document](https://docs.pygod.org/en/latest/)
 - alibi-detect : [URL](https://github.com/SeldonIO/alibi-detect) | [Document](https://docs.seldon.io/projects/alibi-detect/en/stable/)
 - PyNomaly: [URL](https://github.com/vc1492a/PyNomaly)
+- DeepOD: [URL](https://github.com/xuhongzuo/DeepOD)
 
 ## Tutorial
 
