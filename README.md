@@ -78,8 +78,27 @@
 
 ## Video
 
+- [Convolutional transformer based dual discriminator general adversarial networks for video anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3474085.3475693) (MM'21)
+- [A hybrid video anomaly detection
+framework via memory-augmented flow reconstruction and flow-guided frame prediction](https://chengjianglong.com/publications/HF2_ICCV_Supp.pdf) (ICCV'21)
+- [Cloze test helps: Effective video anomaly detection via learning to complete video events](https://dl.acm.org/doi/pdf/10.1145/3394171.3413973) (MM'20)
+- [Clustering driven deep autoencoder for video anomaly detection](http://tuzhigang.cn/thesis/19_ECCV2020-2341-CameraReady.pdf) (ECCV'20)
+- [ Learning memory-guided normality for anomaly detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Park_Learning_Memory-Guided_Normality_for_Anomaly_Detection_CVPR_2020_paper.pdf) (CVPR'20)
+- [Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700490.pdf) (CVIU'20)
+- [Learning regularity in skeleton trajectories for anomaly detection in videos](https://openaccess.thecvf.com/content_CVPR_2019/papers/Morais_Learning_Regularity_in_Skeleton_Trajectories_for_Anomaly_Detection_in_Videos_CVPR_2019_paper.pdf) (CVPR'19)
+- [Memorizing normality to detect anomaly: Memory-augmented deep autoencoder for unsupervised anomaly detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.pdf) (ICCV'19)
+- [Anomaly detection in video sequence with appearancemotion correspondence](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Anomaly_Detection_in_Video_Sequence_With_Appearance-Motion_Correspondence_ICCV_2019_paper.pdf) (ICCV'19)
+- [Anopcn: Video anomaly detection via deep predictive coding network](https://dl.acm.org/doi/pdf/10.1145/3343031.3350899) (MM'19)
+- [Future frame prediction using convolutional vrnn for anomaly detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8909850) (AVSS'19)
+- [Bman: bidirectional multi-scale aggregation networks for abnormal event detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8882515) (TIP'19)
+- [Future frame prediction for anomaly detection a new baseline](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf) (CVPR'18)
 - [Real-world Anomaly Detection in Surveillance Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf) (CVPR'18)
-
+- [Remembering history with convolutional lstm for anomaly detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8019325) (ICME'17)
+- [Spatio-temporal autoencoder for video anomaly detection]() (MM'17)
+- [Learning temporal regularity in video sequences](https://openaccess.thecvf.com/content_cvpr_2016/papers/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.pdf) (CVPR'16)
+- [Abnormal event detection in crowded scenes using sparse representation](https://pages.cs.wisc.edu/~ji-liu/paper/Abnormal-PR.pdf) (PR'13) 
+- [Video parsing for abnormality detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126525) (ICCV'11)
+- [Robust real-time unusual event detection using multiple fixed-location monitors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4407716) (TRAMI'08)
 
 ## Survey
 
