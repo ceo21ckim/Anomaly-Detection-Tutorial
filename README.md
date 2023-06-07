@@ -35,6 +35,7 @@
 - [Variational AutoEncoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Variational%20AutoEncoder)
 - [LSTM-AE](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/LSTM-AE)
 - [Anomaly Transformer](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Anomaly%20Transformer)
+- [BWGNN](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/BWGNN)
 
 
 # Domain
