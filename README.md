@@ -104,6 +104,7 @@ framework via memory-augmented flow reconstruction and flow-guided frame predict
 ## Survey
 
 - [A Survey on Unsupervised Visual Industrial Anomaly Detection Algorithms](https://arxiv.org/pdf/2204.11161.pdf) (2022.08)
+- [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/pdf/2209.13232.pdf) (CoRR'22)
 - [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9565320) (TKDE'21)
 - [Deep Learning for Anomaly Detection: A Survey](https://arxiv.org/pdf/1901.03407.pdf) (2019.01)
 - [Anomaly Detection: A Survey](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882) (2009.06)
