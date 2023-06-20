@@ -1,5 +1,5 @@
 
-- modified: 2023-06-13
+- modified: 2023-06-20
 
 # Anomaly-Detection
 
@@ -36,6 +36,7 @@
 - [LSTM-AE](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/LSTM-AE)
 - [Anomaly Transformer](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Anomaly%20Transformer)
 - [BWGNN](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/BWGNN)
+- [Auto-Encoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Auto%20Encoder/Auto-Encoder.py)
 
 
 # Domain
