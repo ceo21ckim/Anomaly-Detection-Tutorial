@@ -6,11 +6,12 @@
 # Outline
 1. [Packages](#Packages)
 2. [Tutorial](#Tutorial)
-3. [Images](#Image)
-4. [Time Series](#Time-Series)
-5. [Video](#Video)
-6. [Survey](#Survey)
-7. [Models](#Models)
+3. [Models](#Models)
+4. [Images](#Image)
+5. [Time Series](#Time-Series)
+6. [Video](#Video)
+7. [Survey](#Survey)
+
 
 
 ### Packages
@@ -38,6 +39,26 @@
 - [Anomaly Transformer](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Anomaly%20Transformer)
 - [BWGNN](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/BWGNN)
 - [Auto-Encoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Auto%20Encoder/Auto-Encoder.py)
+
+
+
+
+# Models
+
+- SL-GAD: [Generative and contrastive self-supervised learning for graph anomaly detection](https://www.researchgate.net/profile/Yu-Zheng-97/publication/355294838_Generative_and_Contrastive_Self-Supervised_Learning_for_Graph_Anomaly_Detection/links/6215a16eba15e05e2ea21425/Generative-and-Contrastive-Self-Supervised-Learning-for-Graph-Anomaly-Detection.pdf) (TKDE'21)
+- ANEMONE: [Anemone: Graph anomaly detection with multi-scale contrastive learning](https://dl.acm.org/doi/pdf/10.1145/3459637.3482057) (CIKM'21)
+- CoLA: [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395172) (TNNLS'21)
+- PC-GNN: [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://dl.acm.org/doi/pdf/10.1145/3442381.3449989) (WWW'21)
+- CARE-GNN: [Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters](https://dl.acm.org/doi/pdf/10.1145/3340531.3411903) (CIKM'20)
+- OCGNN: [One-class graph neural networks for anomaly detection in attributed networks](https://link.springer.com/article/10.1007/s00521-021-05924-9) (NCA'20)
+- AnomalyDAE: [ AnomalyDAE: Dual autoencoder for anomaly detection on attributed networks](https://haoyfan.github.io/papers/AnomalyDAE_ICASSP2020.pdf) (ICASSP'20)
+- SpecAE: [SpecAE: Spectral autoencoder for anomaly detection in attributed networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3358074) (CIKM'19)
+- DOMINANT: [Deep anomaly detection on attributed networks](https://epubs.siam.org/doi/epdf/10.1137/1.9781611975673.67) (SDM'19)
+- ANOMALOUS:[Anomalous: A joint modeling approach for anomaly detection on attributed networks](https://www.ijcai.org/Proceedings/2018/0488.pdf) (IJCAI'18)
+- OddBall: [OddBall: Spotting anomalies in weighted graphs](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/mmcgloho/pubs/pakdd10.pdf) (PAKDD'10)
+
+
+
 
 
 # Domain
@@ -111,17 +132,3 @@ framework via memory-augmented flow reconstruction and flow-guided frame predict
 - [Deep Learning for Anomaly Detection: A Survey](https://arxiv.org/pdf/1901.03407.pdf) (2019.01)
 - [Anomaly Detection: A Survey](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882) (2009.06)
 
-
-
-
-## Models
-
-- SL-GAD: [Generative and contrastive self-supervised learning for graph anomaly detection]() (TKDE'21)
-- ANEMONE: [Anemone: Graph anomaly detection with multi-scale contrastive learning](https://dl.acm.org/doi/pdf/10.1145/3459637.3482057) (CIKM'21)
-- CoLA: [Anomaly detection on attributed networks via contrastive self-supervised learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395172) (TNNLS'21)
-- OCGNN: [One-class graph neural networks for anomaly detection in attributed networks](https://link.springer.com/article/10.1007/s00521-021-05924-9) (NCA'20)
-- AnomalyDAE: [ AnomalyDAE: Dual autoencoder for anomaly detection on attributed networks](https://haoyfan.github.io/papers/AnomalyDAE_ICASSP2020.pdf) (ICASSP'20)
-- SpecAE: [SpecAE: Spectral autoencoder for anomaly detection in attributed networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3358074) (CIKM'19)
-- DOMINANT: [Deep anomaly detection on attributed networks](https://epubs.siam.org/doi/epdf/10.1137/1.9781611975673.67) (SDM'19)
-- ANOMALOUS:[Anomalous: A joint modeling approach for anomaly detection on attributed networks](https://www.ijcai.org/Proceedings/2018/0488.pdf) (IJCAI'18)
-- OddBall: [OddBall: Spotting anomalies in weighted graphs](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/mmcgloho/pubs/pakdd10.pdf) (PAKDD'10)
