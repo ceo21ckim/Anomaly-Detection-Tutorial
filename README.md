@@ -61,19 +61,21 @@
 # Dataset
 
 - [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)
-![image](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/4f8221a2-02de-4626-8ea6-70060f1673a3)
+<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/ef42da34-04c3-45e1-bdec-b712fa66b103">
+
 
 - [VisA](https://paperswithcode.com/dataset/visa)
-![image](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/8933b36b-d884-48b0-9519-21b14ea0ff80)
+<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/69dbd2a7-b3ec-40d0-bcab-78884460e569">
+
 
 - [Kolektor](https://www.vicos.si/resources/kolektorsdd2/)
-<img width="882" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/65c72211-04eb-472d-b058-3b7b5b290e07">
+<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/65c72211-04eb-472d-b058-3b7b5b290e07">
 
 - [ADNI](https://adni.loni.usc.edu/data-samples/access-data/)
-![image](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/30c7a8e7-f5e1-4862-a8e8-c4d79d6ca22c)
+<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/9b695905-d90a-4a25-be92-66e4dd0cdb86">
 
 - [Decathlon](http://medicaldecathlon.com/)
-<img width="665" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/8fd4c38c-6f59-4f1f-b228-7cbaf6fe1455">
+<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/8fd4c38c-6f59-4f1f-b228-7cbaf6fe1455">
 
 
 
