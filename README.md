@@ -7,14 +7,13 @@
 1. [Packages](#Packages)
 2. [Tutorial](#Tutorial)
 3. [Models](#Models)
-4. [Images](#Image)
-5. [Time Series](#Time-Series)
-6. [Video](#Video)
-7. [Survey](#Survey)
+4. [Dataset](#Dataset)
+5. [Domain](#Domain)
 
 
 
-### Packages
+
+# Packages
 
 - PyOD (Python Outlier Detection) : [URL](https://github.com/yzhao062/pyod) | [Document](https://pyod.readthedocs.io/en/latest/pyod.html)
 - TDOS (Time-series Outlier Detection Systems) : [URL](https://github.com/datamllab/tods) | [Document](https://tods-doc.github.io/)
@@ -23,16 +22,16 @@
 - PyNomaly: [URL](https://github.com/vc1492a/PyNomaly)
 - DeepOD: [URL](https://github.com/xuhongzuo/DeepOD)
 
-## Tutorial
+# Tutorial
 
-### Machine Learning
+## Machine Learning
 
 - [Isolated Forest](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Isolated%20Forest/Isolation%20Forest.ipynb)
 - [One Class SVM](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/One%20Class%20SVM/One-Class-SVM.ipynb)
 - [Local Outlier Factor](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Local%20Outlier%20Factor/Local%20Outlier%20Factor.ipynb)
 
 
-### Deep Learning
+## Deep Learning
 
 - [Variational AutoEncoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Variational%20AutoEncoder)
 - [LSTM-AE](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/LSTM-AE)
