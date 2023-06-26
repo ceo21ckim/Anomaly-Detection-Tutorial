@@ -60,24 +60,14 @@
 
 # Dataset
 
-- [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)
-<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/ef42da34-04c3-45e1-bdec-b712fa66b103">
-
-
-- [VisA](https://paperswithcode.com/dataset/visa)
-<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/69dbd2a7-b3ec-40d0-bcab-78884460e569">
-
-
-- [Kolektor](https://www.vicos.si/resources/kolektorsdd2/)
-<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/65c72211-04eb-472d-b058-3b7b5b290e07">
-
-- [ADNI](https://adni.loni.usc.edu/data-samples/access-data/)
-<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/9b695905-d90a-4a25-be92-66e4dd0cdb86">
-
-- [Decathlon](http://medicaldecathlon.com/)
-<img width="300" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/8fd4c38c-6f59-4f1f-b228-7cbaf6fe1455">
-
-
+- [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad): `Industial`
+- [VisA](https://paperswithcode.com/dataset/visa): `Visual Anomaly Dataset`
+- [Kolektor](https://www.vicos.si/resources/kolektorsdd2/): `Surface defect`
+- [ADNI](https://adni.loni.usc.edu/data-samples/access-data/): `Alzheimer’s Disease Neuroimaging Initiative`
+- [Decathlon](http://medicaldecathlon.com/): `Medical Segmentation Decathlon`
+- [ELPV](https://github.com/zae-bayern/elpv-dataset): High-resolution Electroluminescence
+- [CRDDC](https://crddc2022.sekilab.global/): Crowdsensing-based Road Damage Detection Challenge
+- [ABU](http://xudongkang.weebly.com/data-sets.html): Airport-Beach-Urban (ABU)
 
 
 # Domain
