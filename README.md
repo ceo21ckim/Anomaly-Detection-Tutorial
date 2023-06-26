@@ -64,9 +64,9 @@
 - [Kolektor](https://www.vicos.si/resources/kolektorsdd2/): `Surface defect`
 - [ADNI](https://adni.loni.usc.edu/data-samples/access-data/): `Alzheimer’s Disease Neuroimaging Initiative`
 - [Decathlon](http://medicaldecathlon.com/): `Medical Segmentation Decathlon`
-- [ELPV](https://github.com/zae-bayern/elpv-dataset): High-resolution Electroluminescence
-- [CRDDC](https://crddc2022.sekilab.global/): Crowdsensing-based Road Damage Detection Challenge
-- [ABU](http://xudongkang.weebly.com/data-sets.html): Airport-Beach-Urban (ABU)
+- [ELPV](https://github.com/zae-bayern/elpv-dataset): `High-resolution Electroluminescence`
+- [CRDDC](https://crddc2022.sekilab.global/): `Crowdsensing-based Road Damage Detection Challenge`
+- [ABU](http://xudongkang.weebly.com/data-sets.html): `Airport-Beach-Urban (ABU)`
 
 
 # Domain
