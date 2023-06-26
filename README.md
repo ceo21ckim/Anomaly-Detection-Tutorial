@@ -59,7 +59,8 @@
 
 # Dataset
 
-- [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad): `Industial`
+- [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad): `Industrial inspection`
+- [MVTec LOCO AD](https://www.mvtec.com/company/research/datasets/mvtec-loco): `MVTec Logical Constraints Anomaly Detection`
 - [VisA](https://paperswithcode.com/dataset/visa): `Visual Anomaly Dataset`
 - [Kolektor](https://www.vicos.si/resources/kolektorsdd2/): `Surface defect`
 - [ADNI](https://adni.loni.usc.edu/data-samples/access-data/): `Alzheimer’s Disease Neuroimaging Initiative`
