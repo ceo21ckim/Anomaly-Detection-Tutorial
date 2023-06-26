@@ -58,6 +58,23 @@
 - OddBall: [OddBall: Spotting anomalies in weighted graphs](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/mmcgloho/pubs/pakdd10.pdf) (PAKDD'10)
 
 
+# Dataset
+
+- [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+![image](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/4f8221a2-02de-4626-8ea6-70060f1673a3)
+
+- [VisA](https://paperswithcode.com/dataset/visa)
+![image](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/8933b36b-d884-48b0-9519-21b14ea0ff80)
+
+- [Kolektor](https://www.vicos.si/resources/kolektorsdd2/)
+<img width="882" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/65c72211-04eb-472d-b058-3b7b5b290e07">
+
+- [ADNI](https://adni.loni.usc.edu/data-samples/access-data/)
+![image](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/30c7a8e7-f5e1-4862-a8e8-c4d79d6ca22c)
+
+- [Decathlon](http://medicaldecathlon.com/)
+<img width="665" alt="image" src="https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/assets/60685175/8fd4c38c-6f59-4f1f-b228-7cbaf6fe1455">
+
 
 
 
