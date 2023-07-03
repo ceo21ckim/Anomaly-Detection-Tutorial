@@ -27,19 +27,19 @@
 ## Machine Learning
 
 - [Isolated Forest](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Isolated%20Forest/Isolation%20Forest.ipynb)
-- [One Class SVM](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/One%20Class%20SVM/One-Class-SVM.ipynb)
 - [Local Outlier Factor](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Local%20Outlier%20Factor/Local%20Outlier%20Factor.ipynb)
-
+- [One Class SVM](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/One%20Class%20SVM/One-Class-SVM.ipynb)
 
 ## Deep Learning
 
-- [Variational AutoEncoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Variational%20AutoEncoder)
-- [LSTM-AE](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/LSTM-AE)
 - [Anomaly Transformer](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Anomaly%20Transformer)
+- [Auto-Encoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Auto%20Encoder)
 - [BWGNN](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/BWGNN)
-- [Auto-Encoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/blob/main/Auto%20Encoder/Auto-Encoder.py)
-
-
+- [CutPaste](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/CutPaste)
+- [LSTM-AE](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/LSTM-AE)
+- [ResNet](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/ResNet)
+- [U-Net](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/U-Net)
+- [Variational AutoEncoder](https://github.com/ceo21ckim/Anomaly-Detection-Tutorial/tree/main/Variational%20AutoEncoder)
 
 
 # Models
